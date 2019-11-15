@@ -23,7 +23,7 @@ jmespath==0.9.3
 jupyter-client==5.2.3
 jupyter-core==4.4.0
 Markdown==3.0.1
-nltk==3.4
+nltk==3.4.5
 numpy==1.15.4
 pexpect==4.6.0
 pickleshare==0.7.5
