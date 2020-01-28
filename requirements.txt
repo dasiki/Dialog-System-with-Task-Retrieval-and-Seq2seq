@@ -43,7 +43,7 @@ six==1.11.0
 sklearn==0.0
 smart-open==1.7.1
 tensorboard==1.8.0
-tensorflow-gpu==1.8.0
+tensorflow-gpu==1.15.2
 tensorflow-tensorboard==0.4.0
 termcolor==1.1.0
 tornado==5.1.1
