@@ -13,7 +13,7 @@ enum34==1.1.6
 gast==0.2.1.post0
 gensim==3.6.0
 grpcio==1.17.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.8
 ipykernel==5.1.0
 ipython==5.8.0
