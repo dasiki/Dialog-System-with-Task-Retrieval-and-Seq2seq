@@ -24,7 +24,7 @@ jupyter-client==5.2.3
 jupyter-core==4.4.0
 Markdown==3.0.1
 nltk==3.4
-numpy==1.15.4
+numpy==1.22.0
 pexpect==4.6.0
 pickleshare==0.7.5
 prompt-toolkit==1.0.15
